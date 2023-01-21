@@ -11,7 +11,7 @@
 收藏电影网站🎬🎬：
       
       分类栏：           <名称>               【网站】：                                                       【可用】（“1”：表示可用、“4”表示不可用）
-                        鸭奈飞电影                    https://azx.me                                                  1
+                        鸭奈飞电影                  @  https://azx.me                                                  1
                         蓝光影院                      https://www.6446.tv                                             1
                         蓝光影院                      https://www.lgyy.tv                                             1
                         在线之家                      http://www.zxzj.online                                          1 
