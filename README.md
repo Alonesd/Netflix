@@ -28,6 +28,10 @@
  
  低端影视       https://ddys2.me 
  
+ HOHO TV      https://hoho.tv/
+ 
+ foreign movie sites： https://cupfox.app  https://waipian13.com   dyxs.vip
+ 
  
        
 私人收藏电影网站、域名、网址.
