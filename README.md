@@ -30,7 +30,7 @@
  
  HOHO TV      https://hoho.tv/
  
- foreign movie sites： https://cupfox.app  https://waipian13.com   dyxs.vip
+ foreign movie sites： https://cupfox.app  https://waipian13.com   https://xindizhi.github.io/dyxs/
  
  
        
