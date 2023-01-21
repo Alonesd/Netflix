@@ -1,5 +1,7 @@
 #有问题请发在本人邮箱邮📮当中：ayou55792@gmail.com
 
+https://azx.me  
+
 
 
 私人收藏电影网站、域名、网址.
@@ -11,7 +13,7 @@
 收藏电影网站🎬🎬：
       
       分类栏：           <名称>               【网站】：                                                       【可用】（“1”：表示可用、“4”表示不可用）
-                        鸭奈飞电影                  @  https://azx.me                                                  1
+                        鸭奈飞电影                    https://azx.me                                                  1
                         蓝光影院                      https://www.6446.tv                                             1
                         蓝光影院                      https://www.lgyy.tv                                             1
                         在线之家                      http://www.zxzj.online                                          1 
