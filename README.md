@@ -1,11 +1,17 @@
-#免费看电影
+# 免费看电影
 
 <img width="1178" alt="截屏2023-02-27 22 03 46" src="https://user-images.githubusercontent.com/123158058/221584717-7f0e64c1-be32-4d4c-a26c-6db1231ed16b.png">
 
-
+# 中国电影网站官方列表
+  官方名称：                    -- 网址：        
+   腾讯视频                           ：https://v.qq.com            
+   爱奇艺                             ：https://www.iqiyi.com              
+   哔哩哔哩                           ：https://www.bilibili.com             
+   优酷                              ：        
+                                     ：
  收藏电影网站🎬🎬：
   
-#电影目录
+# 电影目录
 
  鸭奈飞电影网址导航   https://azx.me
  
