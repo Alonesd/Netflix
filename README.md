@@ -1,3 +1,7 @@
+# 插件软件包
+软件插件包👉自取Tampermonkey、可以使用Tampermonkey插件的 
+script 进行白嫖，虽然不道德 但是还是白嫖香喷喷。
+
 # 免费看电影
 
 <img width="1178" alt="截屏2023-02-27 22 03 46" src="https://user-images.githubusercontent.com/123158058/221584717-7f0e64c1-be32-4d4c-a26c-6db1231ed16b.png">
